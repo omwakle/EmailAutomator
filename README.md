@@ -1,8 +1,4 @@
 # EmailAutomator
-Here's a sample `README.md` file for your project:
-
----
-
 # Automated Email Sender for HR Outreach
 
 This Python script automates the process of sending personalized emails to HR contacts. It uses a CSV file containing contact details and sends customized emails using a template.
@@ -93,6 +89,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-
-Enjoy automating your HR outreach process! 😊
