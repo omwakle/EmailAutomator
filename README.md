@@ -15,7 +15,7 @@ This Python script automates the process of sending personalized emails to HR co
 
 - Python 3.7 or higher
 - Internet connection
-- A Google account with App Passwords enabled for email sendin
+- A Google account with App Passwords enabled for email sending
 
 ## Installation
 
